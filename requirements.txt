@@ -13,7 +13,7 @@ astroquery>=0.4.6
 
 # ── Transit detection ─────────────────────────────────────────────────────────
 transitleastsquares>=1.0.31
-wotan>=1.11
+wotan>=1.10
 
 # ── Transit modelling ─────────────────────────────────────────────────────────
 batman-package>=2.4.9
